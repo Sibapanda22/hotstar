@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: pandaalok000/hotstar:latest
+        image: sibapanda22/hotstar:latest
         ports:
         - containerPort: 3000  
